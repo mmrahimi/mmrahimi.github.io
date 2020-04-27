@@ -859,7 +859,9 @@ button.disqus-load {
   padding-bottom: calc(3rem + 1em); }
 
 .home.index #sidebar {
-  padding-bottom: 3rem; }
+  padding-bottom: 3rem; 
+  margin: auto;
+}
 
 @media (min-width: 51rem) {
   .pagination > a {
